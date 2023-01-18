@@ -1,5 +1,5 @@
 # -Download-video-from-youtube-with-python
-Como baixar um video do youtube com python (com 4 linhas)
+Como baixar um video do youtube com python
 
 <b>Codigo simples para baixar um video do youtube, lembrando que a resolução escolhida esta a maxima então pode demorar dependendo do tamanho do video escolhido!</b>
 
