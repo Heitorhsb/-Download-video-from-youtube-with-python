@@ -7,5 +7,5 @@ para rodar esse codigo é necessario:
  ter o Python na versão 3 instalado no PC;
  instalar a bibioteca pytube
  
-##  - para instalar a biblioteca do pytube é só rodar em um terminal o comando </br>
-pip3 install pytube
+###  - para instalar a biblioteca do pytube é só rodar em um terminal o comando:
+###  - pip3 install pytube
